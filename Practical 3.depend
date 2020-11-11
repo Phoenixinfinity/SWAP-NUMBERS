@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605013453 source:d:\documents\c- programming files\practical 3\main.cpp
+	<iostream>
+	<conio.h>
+
